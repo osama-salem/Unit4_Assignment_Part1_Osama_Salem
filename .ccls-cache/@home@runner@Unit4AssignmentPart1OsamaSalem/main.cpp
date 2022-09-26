@@ -1,6 +1,12 @@
 #include <iostream>
 using namespace std;
 
+/*Osama Salem
+  COSC-1436-57001
+  Replit.com
+  This program will accept input from the user to perform mathematical calculations and output the results using a while loop.
+*/
+
 int main() {
 
   //Declare variables
